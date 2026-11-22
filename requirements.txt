@@ -1,0 +1,25 @@
+# Project dependencies
+pandas 
+fastapi
+granian
+pydataui
+langchain
+langchain-text-splitters
+langchain-core
+langchain-community
+pydantic 
+langgraph
+langgraph-checkpoint-postgres
+langgraph-store-postgres
+sqlalchemy[asyncio]
+structlog
+PyJWT[crypto]
+pwdlib[argon2]
+asyncpg
+psycopg[binary,pool]
+pydantic-settings
+email-validator
+uvicorn
+python-multipart
+pytest
+python-dotenv
